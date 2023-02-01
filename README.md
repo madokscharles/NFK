@@ -1,1 +1,1 @@
-Details readme
+Basic Python website using Django
